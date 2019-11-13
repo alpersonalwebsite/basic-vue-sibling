@@ -1,4 +1,7 @@
-# basic-vue-sibling
+# Vue.js: EventBus and communication between sibling components
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpersonalwebsite/basic-vue-sibling.svg)](https://greenkeeper.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 ## Project setup
 ```
