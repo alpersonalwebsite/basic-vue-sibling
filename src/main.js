@@ -3,6 +3,14 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
+export const EventBus = new Vue({
+  methods: {
+    centralizedIncrease(intToIncrease) {
+      this.$emit('increasing', intToIncrease)
+    }
+  }
+})
+
 new Vue({
   render: h => h(App),
 }).$mount('#app')
