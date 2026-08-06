@@ -7,6 +7,8 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "author": "Al Diaz",
+  "license": "MIT",
   "dependencies": {
     "core-js": "3.4.6",
     "vue": "^2.6.14"
