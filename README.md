@@ -1,6 +1,5 @@
 # Vue.js: EventBus and communication between sibling components
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/alpersonalwebsite/basic-vue-sibling.svg)](https://greenkeeper.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 An easy, basic and raw (no styles attached) example of **HOW to** let two sibling
